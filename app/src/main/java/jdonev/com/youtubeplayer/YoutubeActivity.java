@@ -18,7 +18,7 @@ import jdonev.com.youtubeplayer.R;
 public class YoutubeActivity extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
 
     private static final String TAG = "YoutubeActivity";
-    static final String GOOGLE_API_KEY = "AIzaSyBK7REeg-PjzgiKi6ZjyPImOoFvn7aGc6A";
+    static final String GOOGLE_API_KEY = "";
     static final String YOUTUBE_VIDEO_ID = "GF256NDINhk";
     static final String YOUTUBE_PLAYLIST = "PL9325D8D7E5979B1B";
 
